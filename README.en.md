@@ -107,7 +107,7 @@ In parallel I'm finishing a bachelor's degree in Applied Informatics (Artificial
     <tr>
       <td><b><a href="https://github.com/laviercasey/heart-disease-ml-benchmark">heart-disease-ml-benchmark</a></b></td>
       <td>Python · CatBoost · scikit-learn</td>
-      <td>Multicenter ML benchmark for cardiovascular-disease diagnosis (n = 1,904 patients, 8 algorithms, 6 databases). CatBoost ROC-AUC <b>0.948</b> with BCa bootstrap confidence intervals and DeLong tests. Code for a published paper.</td>
+      <td>Multicenter ML benchmark for cardiovascular-disease diagnosis (n = 1,904 patients, 8 algorithms, 6 databases). CatBoost ROC-AUC <b>0.948</b> with BCa bootstrap confidence intervals and DeLong tests. Code for a <a href="https://moitvivt.ru/en/journal/article?id=2302">published paper</a>.</td>
     </tr>
     <tr>
       <td><b><a href="https://github.com/laviercasey/metropt-predictive-maintenance">metropt-predictive-maintenance</a></b></td>
@@ -147,7 +147,9 @@ In parallel I'm finishing a bachelor's degree in Applied Informatics (Artificial
 <h2>Publications</h2>
 
 <ul>
-  <li><b>"Comparative analysis of machine-learning algorithms for cardiovascular-disease diagnosis on a multicenter sample"</b> — C. M. Lavier. Code and data for reproduction: <a href="https://github.com/laviercasey/heart-disease-ml-benchmark">heart-disease-ml-benchmark</a>. CatBoost ROC-AUC 0.948, n = 1,904, 8 algorithms, 6 databases.</li>
+  <li>
+    <b>"Ensemble machine learning methods for predictive diagnostics of cardiovascular diseases: comparative analysis on a multi-center dataset"</b> — C.M. Lavier, D.I. Veselov, N.A. Andriyanov. <i>Modeling, Optimization and Information Technology</i>, 2026, vol. 14, no. 6. DOI: <a href="https://doi.org/10.26102/2310-6018/2026.57.6.017">10.26102/2310-6018/2026.57.6.017</a>. Article: <a href="https://moitvivt.ru/en/journal/article?id=2302">moitvivt.ru</a>. Code and data for reproduction: <a href="https://github.com/laviercasey/heart-disease-ml-benchmark">heart-disease-ml-benchmark</a>. Key results: n = 1,904, 8 algorithms across 6 databases, CatBoost ROC-AUC <b>0.948</b>, stacking ROC-AUC 0.931 with superior calibration.
+  </li>
 </ul>
 
 <h2>Production engineering — Russian State Children's Library, 4+ years</h2>

@@ -107,7 +107,7 @@
     <tr>
       <td><b><a href="https://github.com/laviercasey/heart-disease-ml-benchmark">heart-disease-ml-benchmark</a></b></td>
       <td>Python · CatBoost · scikit-learn</td>
-      <td>Многоцентровый ML-бенчмарк диагностики сердечно-сосудистых заболеваний (n = 1904 пациента, 8 алгоритмов, 6 баз данных). CatBoost ROC-AUC <b>0.948</b> с BCa-бутстреп доверительными интервалами и тестом DeLong. Код к опубликованной научной статье.</td>
+      <td>Многоцентровый ML-бенчмарк диагностики сердечно-сосудистых заболеваний (n = 1904 пациента, 8 алгоритмов, 6 баз данных). CatBoost ROC-AUC <b>0.948</b> с BCa-бутстреп доверительными интервалами и тестом DeLong. Код к <a href="https://moitvivt.ru/ru/journal/article?id=2302">опубликованной научной статье</a>.</td>
     </tr>
     <tr>
       <td><b><a href="https://github.com/laviercasey/metropt-predictive-maintenance">metropt-predictive-maintenance</a></b></td>
@@ -147,7 +147,9 @@
 <h2>Научные публикации</h2>
 
 <ul>
-  <li><b>«Сравнительный анализ алгоритмов машинного обучения для диагностики сердечно-сосудистых заболеваний на многоцентровой выборке»</b> — Лавьер К.М. Код и данные для воспроизведения результатов: <a href="https://github.com/laviercasey/heart-disease-ml-benchmark">heart-disease-ml-benchmark</a>. CatBoost ROC-AUC 0.948, n = 1904, 8 алгоритмов, 6 баз данных.</li>
+  <li>
+    <b>«Ансамблевые методы машинного обучения для прогностической диагностики сердечно-сосудистых заболеваний: сравнительный анализ на многоцентровой выборке»</b> — Лавьер К.М., Веселов Д.И., Андриянов Н.А. <i>Моделирование, оптимизация и информационные технологии</i>, 2026, том 14, выпуск 6. DOI: <a href="https://doi.org/10.26102/2310-6018/2026.57.6.017">10.26102/2310-6018/2026.57.6.017</a>. Статья: <a href="https://moitvivt.ru/ru/journal/article?id=2302">moitvivt.ru</a>. Код и данные для воспроизведения: <a href="https://github.com/laviercasey/heart-disease-ml-benchmark">heart-disease-ml-benchmark</a>. Ключевые результаты: n = 1904, 8 алгоритмов на 6 базах, CatBoost ROC-AUC <b>0.948</b>, стекинг ROC-AUC 0.931 с лучшей калибровкой.
+  </li>
 </ul>
 
 <h2>Production-опыт — РГДБ, четыре с лишним года</h2>
