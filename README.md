@@ -1,7 +1,5 @@
-<h1 align="center">Кейси Лавьер</h1>
-
 <p align="center">
-  <b>Системный администратор · Fullstack-инженер</b>
+  <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:0EA5E9,100:22c55e&amp;height=130&amp;section=header&amp;text=%D0%9A%D0%B5%D0%B9%D1%81%D0%B8%20%D0%9B%D0%B0%D0%B2%D1%8C%D0%B5%D1%80&amp;fontSize=38&amp;fontColor=ffffff&amp;desc=%D0%A1%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%BD%D1%8B%D0%B9%20%D0%B0%D0%B4%D0%BC%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%82%D0%BE%D1%80%20%C2%B7%20Fullstack-%D0%B8%D0%BD%D0%B6%D0%B5%D0%BD%D0%B5%D1%80&amp;descSize=15&amp;descAlignY=74" width="100%" alt="Кейси Лавьер — системный администратор и fullstack-инженер" />
 </p>
 
 <p align="center">
@@ -23,6 +21,30 @@
 
 <p>
 Параллельно заканчиваю бакалавриат по прикладной информатике (искусственный интеллект и анализ данных) в Московском университете имени С.Ю. Витте; есть опубликованная научная статья по ML-диагностике сердечно-сосудистых заболеваний.
+</p>
+
+<h2>GitHub</h2>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=laviercasey&amp;bg_color=00000000&amp;color=e6edf3&amp;line=0EA5E9&amp;point=ffffff&amp;area=true&amp;area_color=0EA5E9&amp;title_color=0EA5E9&amp;hide_border=true&amp;custom_title=Contribution%20activity" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=laviercasey&amp;bg_color=00000000&amp;color=1f2328&amp;line=0EA5E9&amp;point=0EA5E9&amp;area=true&amp;area_color=0EA5E9&amp;title_color=0EA5E9&amp;hide_border=true&amp;custom_title=Contribution%20activity" width="100%" alt="График контрибуций за год" />
+  </picture>
+</p>
+
+<p align="center">
+  <a href="https://github.com/laviercasey?tab=repositories">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=laviercasey&amp;theme=github_dark" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=laviercasey&amp;theme=github" width="340" alt="Статистика GitHub: звёзды, коммиты, pull request'ы" />
+    </picture>
+  </a>
+  <a href="https://github.com/laviercasey?tab=repositories">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=laviercasey&amp;theme=github_dark" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=laviercasey&amp;theme=github" width="340" alt="Языки по количеству коммитов" />
+    </picture>
+  </a>
 </p>
 
 <h2>Технологии</h2>

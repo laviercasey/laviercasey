@@ -1,7 +1,5 @@
-<h1 align="center">Casey Lavier</h1>
-
 <p align="center">
-  <b>Systems administrator · Fullstack engineer</b>
+  <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:0EA5E9,100:22c55e&amp;height=130&amp;section=header&amp;text=Casey%20Lavier&amp;fontSize=38&amp;fontColor=ffffff&amp;desc=Systems%20administrator%20%C2%B7%20Fullstack%20engineer&amp;descSize=15&amp;descAlignY=74" width="100%" alt="Casey Lavier — systems administrator and fullstack engineer" />
 </p>
 
 <p align="center">
@@ -23,6 +21,30 @@
 
 <p>
 In parallel I'm finishing a bachelor's degree in Applied Informatics (Artificial Intelligence and Data Analysis) at Vitte Moscow University; I have a published paper on ML-based diagnosis of cardiovascular disease.
+</p>
+
+<h2>GitHub</h2>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=laviercasey&amp;bg_color=00000000&amp;color=e6edf3&amp;line=0EA5E9&amp;point=ffffff&amp;area=true&amp;area_color=0EA5E9&amp;title_color=0EA5E9&amp;hide_border=true&amp;custom_title=Contribution%20activity" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=laviercasey&amp;bg_color=00000000&amp;color=1f2328&amp;line=0EA5E9&amp;point=0EA5E9&amp;area=true&amp;area_color=0EA5E9&amp;title_color=0EA5E9&amp;hide_border=true&amp;custom_title=Contribution%20activity" width="100%" alt="Contribution activity over the past year" />
+  </picture>
+</p>
+
+<p align="center">
+  <a href="https://github.com/laviercasey?tab=repositories">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=laviercasey&amp;theme=github_dark" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=laviercasey&amp;theme=github" width="340" alt="GitHub stats: stars, commits, pull requests" />
+    </picture>
+  </a>
+  <a href="https://github.com/laviercasey?tab=repositories">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=laviercasey&amp;theme=github_dark" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=laviercasey&amp;theme=github" width="340" alt="Top languages by commit" />
+    </picture>
+  </a>
 </p>
 
 <h2>Tech stack</h2>
